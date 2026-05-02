@@ -4,6 +4,7 @@ A tool to simulate a robot moving to a target using Proportional Integral Deriva
 ## About the Project
 * It is a way to smoothly control a robot's movement to its target position.
 * It measures the current position of the robot, computes its distance from the target, and uses the PID to decide the robot's movement.
+* I'm uploading it to Github for application evidence
 
 ## Why I built this:
 This was a way for me to learn robotic fundamentals, such as motion and how code uses path to apply to movement in a robot.
